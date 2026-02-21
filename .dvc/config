@@ -1,0 +1,4 @@
+[core]
+    remote = mlopsremote
+['remote "mlopsremote"']
+    url = s3://vivi-private-resources/temp_tobereviewed/learn-dvc/
